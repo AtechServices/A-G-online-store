@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/A-G-online-store/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/A-G-online-store/static/js/main.47789e86.chunk.js",
+    "main.js.map": "/A-G-online-store/static/js/main.47789e86.chunk.js.map",
+    "runtime-main.js": "/A-G-online-store/static/js/runtime-main.a196f95a.js",
+    "runtime-main.js.map": "/A-G-online-store/static/js/runtime-main.a196f95a.js.map",
+    "static/js/2.174ad413.chunk.js": "/A-G-online-store/static/js/2.174ad413.chunk.js",
+    "static/js/2.174ad413.chunk.js.map": "/A-G-online-store/static/js/2.174ad413.chunk.js.map",
+    "static/js/3.b8a4191f.chunk.js": "/A-G-online-store/static/js/3.b8a4191f.chunk.js",
+    "static/js/3.b8a4191f.chunk.js.map": "/A-G-online-store/static/js/3.b8a4191f.chunk.js.map",
+    "index.html": "/A-G-online-store/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/A-G-online-store/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.174ad413.chunk.js.LICENSE.txt": "/A-G-online-store/static/js/2.174ad413.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/A-G-online-store/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a196f95a.js",
+    "static/js/2.174ad413.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.47789e86.chunk.js"
+  ]
+}
